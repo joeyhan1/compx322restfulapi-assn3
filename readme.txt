@@ -1,0 +1,1 @@
+Once a ID has been deleted, there will never be another same ID as the ID number only goes up. So if you delete all the projects, when you add new projects, it will start from the highest number before deleted  plus 1.
